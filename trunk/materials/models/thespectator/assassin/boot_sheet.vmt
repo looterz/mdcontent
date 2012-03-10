@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\thespectator\assassin/boot_sheet"
-	"$bumpmap" "models\thespectator\assassin/boot_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" "1"
-}

@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	"$baseTexture" "models\weapons\V_models\QUAD_Rev\Rev_Map1"
-                "$bumpmap" "models\weapons\V_models\QUAD_Rev\Rev_Map1_Norm"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}
-	

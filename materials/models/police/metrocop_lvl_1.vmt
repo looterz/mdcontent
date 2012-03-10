@@ -1,0 +1,14 @@
+
+"VertexLitGeneric"
+{
+	//"$basetexture" "Models/Police/a"
+	"$basetexture" "Models/Police/metrocop_sheet_lvl1"
+        "$bumpmap" "Models/Police/metrocop_sheet_normal_lvl1"
+	"$phong" "1"
+"$phongexponent" "30"
+"$phongboost" "1"
+ "$phongfresnelranges" "[0.1 2.1 5.1]"
+"$phongexponenttexture" "Models/Police/metrocop_sheet_EXP"
+"$phongalbedotint" "1"
+}
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Officer/Mal2/sandro_facemap_2_oldest"
+	"$halflambert" 1
+}

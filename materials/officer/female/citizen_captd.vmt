@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "officer/female/imperial_sheet_cmb_cpt"
+	"$halflambert" 1
+        	"$bumpmap" "officer/female/imperial_sheet_cmb_cpt_n_NRM"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongexponenttexture" "officer/female/imperial_sheet_cmp_cpt_exp"
+	"$phongalbedotint" "1"
+}

@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "figisaacnewton/allenfisher/eyeball_l"
+	"$iris" "figisaacnewton/allenfisher/pupil_l"
+	"$halflambert" 1
+}

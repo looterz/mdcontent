@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/kane&lynch\Lynch/Lynch_eyeball_r"
+	"$iris" "models/kane&lynch\Lynch/Lynch_pupil_r"
+	"$halflambert" 1
+}

@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Mine-Dog.net RP content package update"
+	"version"			"1.1"
+	"up_date"			"May 08, 2008"
+	"author_name"		"Waxx, Yellowlake, Jaanus, Lt. Commander, Fig, Pivot"
+	"author_email"		"waxx@mine-dog.net"
+	"author_url"		"http://www.mine-dog.net/"
+	"info"				"wat"
+	"override"			"0"
+}

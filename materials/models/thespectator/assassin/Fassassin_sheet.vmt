@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\thespectator\assassin/Fassassin_sheet"
+	"$bumpmap" "models\thespectator\assassin/Fassassin_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$selfillum" "1"
+}

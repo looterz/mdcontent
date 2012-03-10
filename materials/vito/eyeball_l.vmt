@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "vito/eyeball_l"
+	"$iris" "vito/pupil_l"
+	"$halflambert" 1
+}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "vito/citizen_sheet"
-	"$halflambert" 1
-}

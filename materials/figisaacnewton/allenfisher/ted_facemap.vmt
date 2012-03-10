@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "figisaacnewton/allenfisher/ted_facemap"
-	"$halflambert" 1
-}

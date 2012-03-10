@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Male/viktor/viktor"
-      "$bumpmap"     "models/Humans/Male/viktor/viktor_normal"
-	"$halflambert" 1
-}

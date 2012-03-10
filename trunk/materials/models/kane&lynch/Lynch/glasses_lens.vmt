@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\kane&lynch\Lynch/glasses_lens"
+$translucent 1
+}

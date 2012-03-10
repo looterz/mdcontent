@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "officer/metrocop_sheet_lvl1_cmb"
+//	"$envmap" "env_cubemap"
+//	"$basealphaenvmapmask" 1
+	"$halflambert" 1
+	"$selfillum" 1
+//	"$envmap" "models/Police/envmap"
+//	"$envmapsphere" 1
+        "$bumpmap" "officer/metrocop_sheet_normal_lvl1_a"
+	"$phong" "1"
+"$phongexponent" "30"
+"$phongboost" "1"
+ "$phongfresnelranges" "[0.1 2.1 5.1]"
+"$phongexponenttexture" "officer/metrocop_sheet_EXP"
+"$phongalbedotint" "1"
+}

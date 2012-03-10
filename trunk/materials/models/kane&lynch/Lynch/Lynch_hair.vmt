@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+"$baseTexture" "models\kane&lynch\Lynch/Lynch_hair"
+"$translucent" 1
+"$model" 1
+"$halflambert" 1
+}

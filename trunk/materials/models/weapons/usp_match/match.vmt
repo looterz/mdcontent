@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\usp_match\match"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\usp_match\match_ref"
+}

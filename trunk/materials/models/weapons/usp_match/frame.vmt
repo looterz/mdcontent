@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\usp_match\frame"
+      	"$bumpmap" "models\weapons\usp_match\frame_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+//	"$envmaptint" "[.50 .50 .50]"
+}

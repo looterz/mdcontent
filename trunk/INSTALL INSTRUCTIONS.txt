@@ -1,0 +1,1 @@
+Copy the scripts folder from this folder, into your garrysmod directory. Overwrite.

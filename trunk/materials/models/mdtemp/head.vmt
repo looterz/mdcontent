@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/mdtemp/head"
+	"$envmapmask" "models/mdtemp/headmask"
+	"$envmap" "env_cubemap"
+}

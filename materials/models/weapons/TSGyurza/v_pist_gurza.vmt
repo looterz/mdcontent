@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\weapons\TSGyurza\Gyurza"
+	"$bumpmap" "models\weapons\TSGyurza\Gyurza_ref"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+}
+

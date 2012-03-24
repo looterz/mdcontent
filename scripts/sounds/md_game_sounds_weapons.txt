@@ -60,10 +60,10 @@
 {
 	"channel"		"CHAN_WEAPON"
 	"volume"		"1.0"
-	"CompatibilityAttenuation"	"0.64"
+	"CompatibilityAttenuation"	"ATTN_NORM"
 	"pitch"		"PITCH_NORM"
 
-	"wave"			"weapons\mp7\mp7.wav"
+	"wave"			"weapons/mp7/mp7.wav"
 }
 
 "weapon_mp7.draw"
@@ -73,7 +73,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\draw.wav"
+	"wave"			"weapons/mp7/draw.wav"
 	
 }
 
@@ -84,7 +84,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\handle.wav"
+	"wave"			"weapons/mp7/handle.wav"
 	
 }
 
@@ -95,7 +95,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\magout.wav"
+	"wave"			"weapons/mp7/magout.wav"
 	
 }
 
@@ -106,7 +106,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\magdraw.wav"
+	"wave"			"weapons/mp7/magdraw.wav"
 	
 }
 
@@ -117,7 +117,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\magin.wav"
+	"wave"			"weapons/mp7/magin.wav"
 	
 }
 
@@ -128,7 +128,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\magin2.wav"
+	"wave"			"weapons/mp7/magin2.wav"
 	
 }
 
@@ -139,7 +139,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\boltrelease.wav"
+	"wave"			"weapons/mp7/boltrelease.wav"
 	
 }
 
@@ -150,7 +150,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons\mp7\foregrip.wav"
+	"wave"			"weapons/mp7/foregrip.wav"
 	
 }
 
@@ -160,7 +160,7 @@
 {
 	"channel"		"CHAN_WEAPON"
 	"volume"		"1.0"
-	"CompatibilityAttenuation"	"0.64"
+	"CompatibilityAttenuation"	"ATTN_NORM"
 	"pitch"		"PITCH_NORM"
 
 	"wave"			"weapons/cz52/pl_gun3.wav"
@@ -174,4 +174,116 @@
 	"pitch"		"PITCH_NORM"
 
 	"wave"			"weapons/cz52/p_sliderelease.wav"
+}
+
+
+//Double Barrel 
+"Weapon_dbblmd.barrelup"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/xm1014/barrelup.wav"
+}
+
+"Weapon_dbblmd.barreldown"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/xm1014/barreldown.wav"
+}
+
+//Mine-Dog Russian Rifle
+
+"weapon_ak74.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.64"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/ak74/ak47-1.wav"
+}
+
+"weapon_ak74alt.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.64"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/ak74/fire.wav"
+}
+
+"weapon_ak74.draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak74/clothshit.wav"
+	
+}
+
+"weapon_ak74.handle"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak74/bolt.pull.wav"
+	
+}
+
+"weapon_ak74.magout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak74/mag.out.wav"
+	
+}
+
+"weapon_ak74.magdraw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak74/mag.in.wav"
+	
+}
+
+"weapon_ak74.empty"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak74/empty.wav"
+	
+}
+
+//Mine-Dog Makarov
+
+"weapon_Makarov.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/makarov/mak.wav"
+	
 }

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\Lt_C/suit/vest_taupe"
-	"$bumpmap" "models\Lt_C/suit/vest_n"
-	"$halflambert" 1
-}

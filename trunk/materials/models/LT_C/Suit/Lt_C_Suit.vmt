@@ -1,5 +1,0 @@
-VertexLitGeneric
-{
-$baseTexture "models\Lt_C/Suit/Lt_C_Suit"
-"$bumpmap" "models\Lt_C/Suit/suit_sheet_nml"
-}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\snip_mosin\mosin_scope"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\snip_mosin\mosin_scope_ref"
+}

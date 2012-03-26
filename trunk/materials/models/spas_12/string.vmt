@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spas_12/string"
+	"$bumpmap" "models/spas_12/string_nrm"
+	"$additive" 1
+	"$translucent" 1
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 10
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[.1 5 1]"
+
+}

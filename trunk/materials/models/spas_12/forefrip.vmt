@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spas_12/forefrip"
+                "$bumpmap" "models/spas_12/foregrip_nrm"
+                "$envmap" "env_cubemap"
+                "$envmaptint" "[.19 .19 .19]"
+                "$envmapcontrast" .5             
+}

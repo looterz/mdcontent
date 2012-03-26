@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spas_12/handle"
+                "$bumpmap" "models/spas_12/handle_nrm"
+                "$envmap" "env_cubemap"
+                "$envmaptint" "[.40 .40 .40]"
+                 "$normalmapalphaenvmapmask" 1       
+                "$phong" "1"
+	"$phongexponent" 33
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}
+
+ 

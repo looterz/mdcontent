@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\Thanez_USP40\Frame"
+	"$bumpmap" 	"models\weapons\v_models\Thanez_USP40\Frame_Normal"
+	"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongexponenttexture" "models\weapons\v_models\Thanez_USP40\Frame_Exponent"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+}

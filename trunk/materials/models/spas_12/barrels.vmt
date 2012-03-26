@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spas_12/barrels"
+               "$bumpmap" "models/spas_12/barrels_nrm" 
+               	"$envmap" "env_cubemap"	                
+                "$envmaptint" "[.40 .40 .40]"  
+	 "$selfillum" 1
+                "$halflambert" 1 
+                "$normalmapalphaenvmapmask" 1
+              	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 10
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[.1 5 1]"
+
+
+}
+
+

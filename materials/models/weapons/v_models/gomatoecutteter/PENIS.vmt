@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\gomatoecutteter\PENIS"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .45 .45 .45 ]"
+	"$bumpmap" "models\weapons\v_models\gomatoecutteter\PENISMAP"
+	"$normalmapalphaenvmapmask" 1
+	"$no_draw" "1"
+}

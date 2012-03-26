@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/spas_12/heatshield"
+	"$bumpmap" "models/spas_12/heatshield_nrm"              	
+	"$envmap" "env_cubemap"	                               
+	"$envmaptint" "[.40 .40 .40]"
+                "$halflambert" 1 
+                "$normalmapalphaenvmapmask" 1
+                "$selfillum" 1
+             	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 10
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[.1 5 1]"
+
+}
+
+
+
+
+     
+
+
+
+
+

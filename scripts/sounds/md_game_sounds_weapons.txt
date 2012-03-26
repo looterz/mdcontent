@@ -7,7 +7,7 @@
 	"CompatibilityAttenuation"	"ATTN_NORM"
 	"pitch"		"PITCH_NORM"
 
-	"wave"			"weapons/usp/pistol_fire3.wav"
+	"wave"			"weapons/md_usp/M1911.wav"
 }
 
 "Weapon_MDUSP.Empty"
@@ -17,7 +17,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons/usp/pistol_empty.wav"
+	"wave"			"weapons/md_usp/pistol_empty.wav"
 	
 }
 
@@ -28,7 +28,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons/usp/clip_out.wav"
+	"wave"			"weapons/md_usp/usp_clipout.wav"
 	
 }
 
@@ -39,7 +39,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons/usp/clip_in.wav"
+	"wave"			"weapons/md_usp/usp_clipin2.wav"
 	
 }
 
@@ -50,7 +50,7 @@
 	"CompatibilityAttenuation"	"1.0"
 	"pitch"			"95,105"
 
-	"wave"			"weapons/usp/slide_forw.wav"
+	"wave"			"weapons/md_usp/usp_sliderelease.wav"
 	
 }
 
@@ -198,6 +198,19 @@
 	"wave"			"weapons/xm1014/barreldown.wav"
 }
 
+"Weapon_dbblmd.fire"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"	
+	"rndwave"
+	{
+		"wave"			"weapons/xm1014/m1014_s1.wav"
+		"wave"			"weapons/xm1014/m1014_s2.wav"
+	}
+}
+
 //Mine-Dog Russian Rifle
 
 "weapon_ak74.Single"
@@ -287,3 +300,344 @@
 	"wave"			"weapons/makarov/mak.wav"
 	
 }
+
+"weapon_zip1.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"			"weapons/zip/revolver45_2.wav"
+		"wave"			"weapons/zip/revolver45_3.wav"
+	}
+}
+
+"weapon_zip2.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+	
+	"wave"			"weapons/zip/shotgun_s1.wav"
+}
+
+"md_taurus357.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+	
+	"wave"			"weapons/taurus357/revolver_fire.wav"
+}
+
+"md_taurus357.Reload"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+	
+	"wave"			"weapons/taurus357/revolver_reload.wav"
+}
+
+//md_p226
+"Weapon_P226.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons/p226/p228-1.wav"
+}
+
+"Weapon_P226.Magout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"98,102"
+
+	"wave"			"weapons/p226/magout.wav" 
+}
+
+"Weapon_P226.Magin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"98,102"
+
+	"wave"			"weapons/p226/magin.wav" 
+}
+
+"Weapon_P226.MagShove"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"98,102"
+
+	"wave"			"weapons/p226/magshove.wav" 
+}
+
+"Weapon_P226.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"98,102"
+	
+	"wave"			"weapons/p226/sliderelease.wav"
+}
+
+//md_sigp228
+"Weapon_MDP228.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"^weapons/mdp228/p228-1.wav"
+}
+
+"Weapon_MDP228.Magout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/mdp228/magout.wav" 
+}
+
+"Weapon_MDP228.Magin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/mdp228/magin.wav" 
+}
+
+"Weapon_MDP228.MagShove"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/mdp228/magshove.wav" 
+}
+
+"Weapon_MDP228.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+	
+	"wave"			"weapons/mdp228/sliderelease.wav"
+}
+
+//md_mosin
+"Weapon_Mosin.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"90,110"
+	
+	"wave"			"weapons/mosin/scout_fire-1.wav"
+}
+
+"Weapon_Mosin.Open"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"90,110"
+	
+	"wave"			"weapons/mosin/scout_clipin.wav"
+}
+
+"Weapon_Mosin.Close"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"90,110"
+	
+	"wave"			"weapons/mosin/scout_clipout.wav"
+}
+
+"Weapon_Mosin.Bolt"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"90,110"
+	
+	"wave"			"weapons/mosin/scout_bolt.wav"
+}
+
+//md_acr
+"Weapon_ACR.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons/masadamagpul/masada_unsil.wav"
+	
+}
+
+"Weapon_ACR.Silenced"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.4"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons/masadamagpul/masada_sil.wav"
+}
+
+"Masada.Cloth1"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\cloth1.wav"
+	
+}
+
+"Masada.Cloth2"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\cloth2.wav"
+	
+}
+
+"Masada.Magin1"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\magin1.wav"
+	
+}
+
+"Masada.Magin2"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\magin2.wav"
+	
+}
+
+"Masada.Foley"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\foley.wav"
+	
+}
+
+"Masada.Magout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\magout.wav"
+	
+}
+
+"Masada.Magslap"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\magslap.wav"
+	
+}
+
+"Masada.Safety"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\safety.wav"
+	
+}
+
+"Masada.Chargerback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\chargerback.wav"
+	
+}
+
+"Masada.Boltrelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\boltrelease.wav"
+	
+}
+
+"Masada.Placesilencer"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\placesilencer.wav"
+	
+}
+
+"Masada.Removesilencer"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\masadamagpul\removesilencer.wav"
+	
+}
+

@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" 		"models\weapons\v_models\Masada\glass"
+	"$envmap" "env_cubemap"
+        "$envmaptint"	"[112 147 219]"
+	"$envmapmask"		"models\weapons\v_models\Masada\glass_ref"
+	"$model"	"1"
+	"$translucent"	"1"
+	
+}

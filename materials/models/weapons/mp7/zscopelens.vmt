@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/mp7/zscopelens"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/weapons\mp7\zscopelens_ref"
+}

@@ -641,3 +641,16 @@
 	
 }
 
+"Jericho.fire"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+	"rndwave"
+	{
+		"wave"			"weapons/jericho/M9_s1.wav"
+		"wave"			"weapons/jericho/M9_s2.wav"
+	}
+}
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\LT_C\MSF\vietnamsoldier"
+	"$bumpmap" "models\LT_C\MSF\vietnamsoldier_normal"
+	"$nocull" "1"
+}

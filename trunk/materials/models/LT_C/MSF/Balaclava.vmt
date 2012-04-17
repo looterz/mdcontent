@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\LT_C\MSF\Balaclava"
+	"$phong" "0"
+
+	"$phongexponent" "5"
+	"$phongboost" "0.25"	
+	"$phongfresnelranges"	"[ .3 2 7 ]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "88"							
+	"$rimlightboost" "0.2"
+}

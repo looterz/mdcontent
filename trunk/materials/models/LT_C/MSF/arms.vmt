@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\LT_C\MSF\arms"
+	"$bumpmap" "models\LT_C\MSF\arms_normal"
+}

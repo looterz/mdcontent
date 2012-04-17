@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\LT_C\MSF\color_marine_body"
+	"$bumpmap" "models\LT_C\MSF\color_marine_body_nml"
+}

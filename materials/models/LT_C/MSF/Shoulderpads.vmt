@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\LT_C\MSF\shoulderpads"
+	"$bumpmap" "models\LT_C\MSF\shoulderpads_N"
+	"$phong" "1"
+
+	"$phongexponent" "5"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[ .3 2 7 ]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "88"							
+	"$rimlightboost" "0.2"
+}

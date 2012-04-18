@@ -223,70 +223,6 @@
 	"wave"			"weapons/ak74/ak47-1.wav"
 }
 
-"weapon_ak74alt.Single"
-{
-	"channel"		"CHAN_WEAPON"
-	"volume"		"1.0"
-	"CompatibilityAttenuation"	"0.64"
-	"pitch"		"PITCH_NORM"
-
-	"wave"			"weapons/ak74/fire.wav"
-}
-
-"weapon_ak74.draw"
-{
-	"channel"		"CHAN_ITEM"
-	"volume"		"1.0"
-	"CompatibilityAttenuation"	"1.0"
-	"pitch"			"95,105"
-
-	"wave"			"weapons/ak74/clothshit.wav"
-	
-}
-
-"weapon_ak74.handle"
-{
-	"channel"		"CHAN_ITEM"
-	"volume"		"1.0"
-	"CompatibilityAttenuation"	"1.0"
-	"pitch"			"95,105"
-
-	"wave"			"weapons/ak74/bolt.pull.wav"
-	
-}
-
-"weapon_ak74.magout"
-{
-	"channel"		"CHAN_ITEM"
-	"volume"		"1.0"
-	"CompatibilityAttenuation"	"1.0"
-	"pitch"			"95,105"
-
-	"wave"			"weapons/ak74/mag.out.wav"
-	
-}
-
-"weapon_ak74.magdraw"
-{
-	"channel"		"CHAN_ITEM"
-	"volume"		"0.7"
-	"CompatibilityAttenuation"	"1.0"
-	"pitch"			"95,105"
-
-	"wave"			"weapons/ak74/mag.in.wav"
-	
-}
-
-"weapon_ak74.empty"
-{
-	"channel"		"CHAN_ITEM"
-	"volume"		"1.0"
-	"CompatibilityAttenuation"	"1.0"
-	"pitch"			"95,105"
-
-	"wave"			"weapons/ak74/empty.wav"
-	
-}
 
 //Mine-Dog Makarov
 
@@ -643,10 +579,10 @@
 
 "Jericho.fire"
 {
-	"channel"		"CHAN_ITEM"
+	"channel"		"CHAN_WEAPON"
 	"volume"		"1.0"
-	"CompatibilityAttenuation"	"1.0"
-	"pitch"			"95,105"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
 	"rndwave"
 	{
 		"wave"			"weapons/jericho/M9_s1.wav"
@@ -654,3 +590,27 @@
 	}
 }
 
+"mkiii.fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"			"weapons/mkiii/thesound.wav"
+	}
+}
+
+"mp5.fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"			"weapons/mp5k/glock_fire1.wav"
+		"wave"			"weapons/mp5k/glock_fire2.wav"
+	}
+}

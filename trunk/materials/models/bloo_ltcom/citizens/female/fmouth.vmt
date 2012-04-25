@@ -1,0 +1,7 @@
+"Teeth"
+{
+	"$basetexture" "models\bloo_ltcom\citizens\female\fmouth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}

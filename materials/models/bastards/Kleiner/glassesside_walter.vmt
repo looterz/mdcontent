@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/bastards/Kleiner/glassesside_walter"
+	"$envmapmask" "models/bastards/Kleiner/glassessidemask_walter"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$halflambert" 1
+}

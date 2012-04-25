@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+	"$Iris"               "Engine/eye-iris-blue"
+	"$AmbientOcclTexture" "Engine/eyeball_r_ambient"
+	"$Envmap"             "Engine/eye-reflection-cubemap-"
+	"$CorneaTexture"      "Engine/eye-cornea"
+	"$EyeballRadius" "0.5"
+	"$AmbientOcclColor" "[0.36 0.25 0.2]"
+	"$Dilation" "0.5"
+	"$ParallaxStrength" "0.25"
+	"$CorneaBumpStrength" "1.25"
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$RaytraceSphere" "1"
+	"$SphereTexkillCombo" "0"
+}

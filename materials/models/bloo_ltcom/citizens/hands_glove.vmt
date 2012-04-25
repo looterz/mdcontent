@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\bloo_ltcom\citizens\hands_glove"
+                "$bumpmap" "models\bloo_ltcom\citizens\hands_glove_n"
+	"$halflambert" 1
+	"$nocull" 1
+}

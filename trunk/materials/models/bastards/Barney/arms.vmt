@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\bastards\Barney\arms"
+	"$bumpmap"	"models\bastards\arms_normal"
+                "$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "0.3"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$nodecal"	"1"
+	"$ambientocclusion"	"1"
+	"$halflambert"	"0"
+	"$diffuseexp"	"1.5"
+	"$lightwarptexture"	"models/bastards/facemap_warp"
+}

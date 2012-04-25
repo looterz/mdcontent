@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\bastards\gloves"
+	$bumpmap "models\bastards\gloves_normal"
+
+	//The following lines belong to Alex Portman, creator of "DPFilms Characters Pack" which is available here: http://goo.gl/kYJNW
+	$phong "1"
+	$phongexponent "3"
+	$phongboost "0.25"
+	$phongfresnelranges  "[1 1 30]"
+	$phongalbedotint "1"
+
+	$rimlight "1"
+	$rimlightexponent "15"
+	$rimlightboost "0.2"
+}

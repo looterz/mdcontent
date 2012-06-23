@@ -1,7 +1,5 @@
 VertexLitGeneric
 {
 	"$basetexture"	"models\weapons\v_models\phili_p228\slide"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "models\weapons\v_models\phili_p228\slide_ref"
 }
 

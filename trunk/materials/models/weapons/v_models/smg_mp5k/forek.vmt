@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\smg_mp5k\forek"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\smg_mp5k\forek_ref"
+}

@@ -1,0 +1,10 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Weapons/v_crowbar/sham"
+	"$bumpmap" "models/Weapons/v_crowbar/sham_normal"
+//	"$envmap" "Environment Maps/specular"
+//	"$envmaptint" "[ .64 .64 .64 ]"
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+}

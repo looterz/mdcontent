@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/bastards/Eli/eli_sheet"
-//	"$bumpmap" "models/bastards/Eli/eli_sheet_normal"
-	"$halflambert" 0
-	"$nodecal" "1"
-
-}

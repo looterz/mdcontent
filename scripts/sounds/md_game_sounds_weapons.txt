@@ -614,3 +614,16 @@
 		"wave"			"weapons/mp5k/glock_fire2.wav"
 	}
 }
+
+"bizon.bang"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"			"weapons/bizon/m9_s3.wav"
+		"wave"			"weapons/bizon/m9_s4.wav"
+	}
+}
